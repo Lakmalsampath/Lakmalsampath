@@ -1,0 +1,6 @@
+first = input("What is your name: ")
+print(first)
+print("Your name is "+first)
+second = input("What is your age: ")
+print(second)
+print("your age look like "+second)
