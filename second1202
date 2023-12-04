@@ -1,0 +1,3 @@
+x =  input("How many liters do you have: ")
+print(x)
+print("mmm... do you have ",x +' very good')
